@@ -3,4 +3,4 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/clojurescript "1.10.597"]
                  [cljs-bean "1.4.0"]
-                 [cljsjs/react "16.9.0-0" :exclusions [cljsjs/react-dom-server]])
+                 [cljsjs/react "16.9.0-0" :exclusions [cljsjs/react-dom-server]]])
